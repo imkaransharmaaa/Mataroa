@@ -1,0 +1,7 @@
+django
+psycopg2-binary
+uwsgi
+markdown
+pygments
+bleach[css]
+stripe
